@@ -4,7 +4,7 @@
  */
 
 const MUSIC_CONFIG = {
-  src: 'audio/NaParaBang.mp3',
+  src: 'NaParaBang.mp3',
   title: 'Na Para Bang - Mariah Deborah',
   artist: "Cassandra's Playlist",
   defaultVolume: 0.65,
